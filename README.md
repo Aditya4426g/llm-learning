@@ -1,5 +1,5 @@
 # llm-learning
-🟢 Started Python Basics – hello.py  
+## Started Python Basics
 🟢 Lecture 1 Complete  
 🟢 Lecture 2 Complete  
 🟢 Lecture 3 Complete  
